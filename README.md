@@ -4,12 +4,12 @@
 This project focuses on predicting **Commodity Research Bureau (CRB) Index** changes using machine learning. We applied **LSTM, XGBoost, and OLS** models for time series forecasting and compared their performance.  
 
 ## Key Files  
-- **big_data.ipynb** – Jupyter Notebook for data processing, model training, and analysis.  
+- **big_data.ipynb** – Jupyter Notebook for model training, and analysis.  
 - **lstm_architecture.png** – Visualization of the LSTM model architecture.  
 - **Enhanced_Processed_Financial_Data.csv** – Preprocessed financial dataset.
 - **model_predictions.png** – Comparison of model predictions vs. actual CRB change. 
 - **README.md** – This file with project details.  
-
+- **Data_Processing.ipynb** - Jupyter Notebook for data processing.
 ## Methods & Technologies  
 - **LSTM (Long Short-Term Memory)** – Capturing sequential dependencies in time series.  
 - **XGBoost** – Gradient boosting for regression.  
