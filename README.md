@@ -1,7 +1,7 @@
 # Commodity Price Forecasting  
 
 ## Project Overview  
-This project focuses on predicting **Commodity Research Bureau (CRB) Index** changes using machine learning. We applied **LSTM, XGBoost, and OLS** models for time series forecasting and compared their performance.  
+This project focuses on predicting Commodity Research Bureau (CRB) Index changes using machine learning. We applied LSTM, XGBoost, and OLS models for time series forecasting and compared their performance.  
 
 ## Key Files  
 - **big_data.ipynb** – Jupyter Notebook for model training, and analysis.  
