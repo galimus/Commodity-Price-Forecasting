@@ -13,6 +13,7 @@ This project focuses on predicting **Commodity Research Bureau (CRB) Index** cha
 - **Data_Processing.ipynb** - Jupyter Notebook for data processing.
 - **dataset_big data.zip** - Raw data.
 - **best_lstm_model.h5** - Final model.
+- **Big_Data_report.pdf** - Detailed report with methodology.
 ## Methods & Technologies  
 - **LSTM (Long Short-Term Memory)** – Capturing sequential dependencies in time series.  
 - **XGBoost** – Gradient boosting for regression.  
