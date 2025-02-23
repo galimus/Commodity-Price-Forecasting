@@ -6,7 +6,8 @@ This project focuses on predicting **Commodity Research Bureau (CRB) Index** cha
 ## Key Files  
 - **big_data.ipynb** – Jupyter Notebook for data processing, model training, and analysis.  
 - **lstm_architecture.png** – Visualization of the LSTM model architecture.  
-- **Enhanced_Processed_Financial_Data.csv** – Preprocessed financial dataset.  
+- **Enhanced_Processed_Financial_Data.csv** – Preprocessed financial dataset.
+- **model_predictions.png** – Comparison of model predictions vs. actual CRB change. 
 - **README.md** – This file with project details.  
 
 ## Methods & Technologies  
