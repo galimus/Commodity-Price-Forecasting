@@ -23,7 +23,4 @@ LSTM outperformed other models with:
 
 This confirms that neural network-based models better capture temporal dependencies and nonlinear patterns in financial time series data.  
 
-## How to Run  
-1. Install dependencies:  
-   ```bash
-   pip install -r requirements.txt
+
